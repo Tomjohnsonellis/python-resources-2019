@@ -1,3 +1,12 @@
+# 3 Additional Resources
+
+1. String replacement https://www.w3schools.com/python/ref_string_replace.asp
+2. Explanation of main() https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+3. Iteration syntax https://stackoverflow.com/questions/3685974/iterate-a-certain-number-of-times-without-storing-the-iteration-number-anywhere
+
+
+<hr>
+
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
